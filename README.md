@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ali Zain
 
-<!--
-**aliz-blip/aliz-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Full Stack Developer | MERN Stack Specialist
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- DevOps: Git, Docker, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+- Build scalable web applications
+- SaaS product development
+- API development & integrations
+- Automation systems
+
+## 📫 Let's Connect
+- Email: alizfreelancer@gmail.com
